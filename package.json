@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2.3webServer/index.js",
+  "scripts": {
+    "start": "node hello-node.js",
+    "dev": "nodemon 2.3webServer/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
